@@ -24,6 +24,12 @@ iframe {
 	height: 400px;	
 }
 
+hr {
+  border-color: rgba(255,255,255,0.5);
+  margin-bottom: 24px;
+  width: 64px;
+}
+
 .card {
 	background-color: #000000;
 	color: #FFFFFF;
